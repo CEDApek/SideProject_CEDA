@@ -1,2 +1,4 @@
 # SideProject_CEDA
-My mini project and larg project, also my project progress
+## Welcome to my project, here will be all my mini project and large project
+
+I will be posting my project progress and also the final result of my project
